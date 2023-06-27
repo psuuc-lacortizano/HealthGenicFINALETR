@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/42/34/cJNS9E.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#google:hover{
+    color:red;
+}
+#facebook:hover{
+    color:blue;
+}
+#twitter:hover{
+    color:cyan;
+}
+
